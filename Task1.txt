@@ -8,3 +8,10 @@ Feature 3
 From UET Lahore
 
 Feature 4
+My Hobbies Include
+
+Feature 5
+Sports and watching Movies
+
+Feature 6 
+I am Fond of Web Development.
