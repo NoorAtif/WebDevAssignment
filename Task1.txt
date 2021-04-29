@@ -1,2 +1,10 @@
 Feature 1
 My Name is Noor Atif
+
+Feature 2 
+I am Studying Computer Science
+
+Feature 3 
+From UET Lahore
+
+Feature 4
